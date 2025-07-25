@@ -1,6 +1,7 @@
 "use client"
 import NextTopLoader from "nextjs-toploader"
 
+
 export default function TopLoader() {
   /**
    * ! STATE (état, données) de l'application
