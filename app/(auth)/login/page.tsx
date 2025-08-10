@@ -8,7 +8,6 @@ export default function LoginPage() {
    */
 
 
-
   /**
    * ! AFFICHAGE (render) de l'application
    */
