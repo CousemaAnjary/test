@@ -7,7 +7,6 @@ export default function LoginPage() {
    * ! COMPORTEMENT (méthodes, fonctions) de l'application
    */
 
-  
   /**
    * ! AFFICHAGE (render) de l'application
    */
